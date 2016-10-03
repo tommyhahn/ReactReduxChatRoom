@@ -1,6 +1,6 @@
 Use Guide:
 
-1. clone the repository and then cd react-redux-socketio-chatand npm install
+1. clone the repository and then cd ReactReduxChatRoom npm install
 
 2. Setting up MongoDB
 
